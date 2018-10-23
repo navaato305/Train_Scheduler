@@ -1,1 +1,1 @@
-# Train_Scheduler
+Train Scheduler is an app that allows users to create and update fictional trains.  The app then created an arrival board that keeps track of the train schedules. 
